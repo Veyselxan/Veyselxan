@@ -12,7 +12,7 @@ while contributing to the overall success of the organization.<br>
 
 - 💻 Pentesting, CTF, Bug Hunting: [![HackTheBox](https://img.shields.io/badge/-HackTheBox-%239FEF00?style=flat&logo=hackthebox&logoColor=white)](https://app.hackthebox.com/profile/63663)
 [![TryHackMe](https://img.shields.io/badge/-TryHackMe-%23212C42?style=flat&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/Veyselxan)
-[![ExploitDB Badge](https://img.shields.io/badge/-ExploitDB-red?style=flat&logo=kalilinux&logoColor=white&link=https://www.exploit-db.com/?author=9490)](https://www.exploit-db.com/?author=11552)
+[![ExploitDB Badge](https://img.shields.io/badge/-ExploitDB-red?style=flat&logo=kalilinux&logoColor=white&link=https://www.exploit-db.com/?author=9490)](https://www.exploit-db.com/?author=9490)
 - 💸 Support My Works : [![bmc twseptian](https://img.shields.io/badge/support-@-ff69b4.svg?style=flat&color=white&logo=buy%20me%20a%20coffee)](https://www.buymeacoffee.com/xanveysel)
 
 
