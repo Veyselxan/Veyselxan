@@ -4,8 +4,6 @@ analysis, and network security. Hard-working, energetic, personable, and technic
 individual. Currently in a cybersecurity role where I continue to develop and learn new abilities
 while contributing to the overall success of the organization.<br>
 
-![Profile Viewer](https://komarev.com/ghpvc/?username=Veyselxan)
-
 <a href="https://twitter.com/Veyselxan_" ><img src="https://img.shields.io/twitter/follow/xanveysel.svg?style=social" /></a>
 [![Linkedin Badge](https://img.shields.io/badge/-xanveysel-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/veys%C9%99l-xanki%C5%9Fiyev-ab4a19176)](https://www.linkedin.com/in/veys%C9%99l-xanki%C5%9Fiyev-ab4a19176)
 [![GitHub twseptian](https://img.shields.io/github/followers/Veyselxan?label=follow&style=social)](https://github.com/Veyselxan)
